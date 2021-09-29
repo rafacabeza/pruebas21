@@ -22,3 +22,8 @@ Hoy hemos utilizado:
 1. buscar fichero con "texto" dentro ctrl+shift+F
 
 
+
+## Rama nueva
+
+- Este texto se ha creado en local
+- Se ha incluido dentro de la rama de trabajo __nueva__
