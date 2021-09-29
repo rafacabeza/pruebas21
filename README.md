@@ -14,9 +14,11 @@ Hoy hemos utilizado:
 
 ## Atajos VSC
 
-comentarios ctrl+shift+7
-mover líneas arriba/abajo  alt+flecha-arriba/flecha-abajo
-formateo del fichero Ctrl+shift+I
-selección de palabra (y siguientes con multicursor) ctrl+d
-buscar fichero por nombre ctrl+P
-buscar fichero con "texto" dentro ctrl+shift+F
+1. comentarios ctrl+shift+7
+1. mover líneas arriba/abajo  alt+flecha-arriba/flecha-abajo
+1. formateo del fichero Ctrl+shift+I
+1. selección de palabra (y siguientes con multicursor) ctrl+d
+1. buscar fichero por nombre ctrl+P
+1. buscar fichero con "texto" dentro ctrl+shift+F
+
+
