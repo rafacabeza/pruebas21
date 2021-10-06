@@ -28,3 +28,8 @@ Hoy hemos utilizado:
 
 - Este texto se ha creado en local
 - Se ha incluido dentro de la rama de trabajo __nueva__
+
+## Ejercicio 
+
+- Este es el código de mi "ejercicio" 
+- Podría crear también nuevos ficheros
